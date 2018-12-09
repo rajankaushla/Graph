@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rajankaushal55@gmail.com"]
 
   spec.summary       = %q{A gem for generating a graph based on number of inputs.}
-  spec.homepage      = "Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/rajankaushla/Graph"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.

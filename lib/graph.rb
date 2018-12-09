@@ -25,6 +25,4 @@ module Graph
     instance_eval(&block) if block
 	end	
 end
-	class string
-		include Graph
-end
+	
